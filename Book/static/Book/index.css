@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+     width:100%;
+     height: 120px;
+     background: darkslategray;
+     line-height: 120px;
+ }
+ .nav li{
+     list-style: none;
+     color:#fff;
+     float: left;
+     margin: 0px 20px;
+ }
+ .nav li a{
+     color: white;
+     text-decoration: none;
+ }
+ .nav li a:hover{
+     color: yellow;
+ }
